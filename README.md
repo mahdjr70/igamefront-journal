@@ -1,2 +1,14 @@
 # igamefront-journal
-HTML page archive and documentation
+
+页面文件管理仓库
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
